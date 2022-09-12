@@ -47,4 +47,4 @@ python3 opengl/src/01_Hello_World/hello_world.py
 
 Você deve visualizar uma janela chamada Hello World 640x640 com fundo preto contendo um triângulo colorido.
 
-![](/home/cauetron/.var/app/com.github.marktext.marktext/config/marktext/images/2022-09-12-18-54-02-Screenshot%20from%202022-09-12%2018-53-21.png)
+![Captura de tela de uma janela chamada Hello World 640x640 com fundo preto contendo um triângulo colorido](https://user-images.githubusercontent.com/34218434/189769596-512b8ec9-fb41-4e7c-9179-0760436b4c8b.png)
