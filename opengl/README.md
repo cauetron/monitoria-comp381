@@ -42,7 +42,7 @@ sudo apt install freeglut3-dev
 Para testar se a instação foi bem sucedida, execute o seguinte arquivo
 
 ```shell
-python3 opengl/src/01_Hello_World/hello_world.py
+python3 opengl/src/01-hello-world/hello-world.py
 ```
 
 Você deve visualizar uma janela chamada Hello World 640x640 com fundo preto contendo um triângulo colorido.

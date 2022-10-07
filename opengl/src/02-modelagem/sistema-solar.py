@@ -30,8 +30,11 @@ def period_to_angle(max):
   return interp(year%max, [0,max], [0, 360])
 
 def draw_sun():
+  #glPushMatrix()
+  #glRotatef(period_to_angle(365), 0, 1, 0)
   glColor4f(1.0, 1.0, 0.0, 1.0) # yellow
-  glutSolidSphere(SUN_RADIUS, SLICES*2, STACKS*2)
+  glutWireSphere(SUN_RADIUS, SLICES*2, STACKS*2)
+  #glPopMatrix()
 
 def draw_moon_1():
   glPushMatrix()
